@@ -1,13 +1,13 @@
-package com.example.agent;
+package com.example.langchain4j;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AgentApplication {
+public class Langchain4jApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AgentApplication.class, args);
+		SpringApplication.run(Langchain4jApplication.class, args);
 	}
 
 }

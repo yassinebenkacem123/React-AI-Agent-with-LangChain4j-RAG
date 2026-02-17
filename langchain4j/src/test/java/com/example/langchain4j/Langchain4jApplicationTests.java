@@ -1,10 +1,10 @@
-package com.example.agent;
+package com.example.langchain4j;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AgentApplicationTests {
+class Langchain4jApplicationTests {
 
 	@Test
 	void contextLoads() {
